@@ -1,0 +1,1904 @@
+{
+ "res_code": [
+  {
+   "name": "7",
+   "area": "DRW",
+   "res_name": "Any CCTH",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2833 (pool G)",
+   "group_4": "2818 (pool G)"
+  },
+  {
+   "name": "1",
+   "area": "DRW",
+   "res_name": "Any Dorm",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2833 (pool G)",
+   "group_4": "2818 (pool G)"
+  },
+  {
+   "name": "2",
+   "area": "DRW",
+   "res_name": "Any East",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2774",
+   "group_3": "2745",
+   "group_4": "2745"
+  },
+  {
+   "name": "6",
+   "area": "DRW",
+   "res_name": "Any Res",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "n/a",
+   "group_3": "n/a",
+   "group_4": "n/a"
+  },
+  {
+   "name": "3",
+   "area": "DRW",
+   "res_name": "Any West",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2833 (pool G)",
+   "group_4": "2818 (pool G)"
+  },
+  {
+   "name": "31",
+   "area": "BRN",
+   "res_name": "Any Branner",
+   "sex": "m",
+   "individual": "1508",
+   "group_2": "1363",
+   "group_3": "1346",
+   "group_4": "1346"
+  },
+  {
+   "name": "282",
+   "area": "BRN",
+   "res_name": "Bran1rmDbl",
+   "sex": "m",
+   "individual": "1508",
+   "group_2": "1363",
+   "group_3": "1346",
+   "group_4": "1172"
+  },
+  {
+   "name": "281",
+   "area": "BRN",
+   "res_name": "Bran1rmSgl",
+   "sex": "m",
+   "individual": "286",
+   "group_2": "200",
+   "group_3": "199",
+   "group_4": "199"
+  },
+  {
+   "name": "284",
+   "area": "BRN",
+   "res_name": "Bran2rmDbl",
+   "sex": "m",
+   "individual": "1035",
+   "group_2": "811",
+   "group_3": "800",
+   "group_4": "800"
+  },
+  {
+   "name": "283",
+   "area": "BRN",
+   "res_name": "BrannerTrp",
+   "sex": "m",
+   "individual": "1508",
+   "group_2": "1363",
+   "group_3": "1346",
+   "group_4": "no room"
+  },
+  {
+   "name": "309",
+   "area": "CRO",
+   "res_name": "Any Cro",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2774",
+   "group_3": "2745",
+   "group_4": "2745"
+  },
+  {
+   "name": "329",
+   "area": "CRO",
+   "res_name": "Cro1rmDbl",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2774",
+   "group_3": "2745",
+   "group_4": "2745"
+  },
+  {
+   "name": "319",
+   "area": "CRO",
+   "res_name": "Cro1rmSgl",
+   "sex": "m",
+   "individual": "1006",
+   "group_2": "968",
+   "group_3": "940",
+   "group_4": "940"
+  },
+  {
+   "name": "61",
+   "area": "FLO",
+   "res_name": "Alondra",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "62",
+   "area": "FLO",
+   "res_name": "Any Cardenal",
+   "sex": "m",
+   "individual": "2597",
+   "group_2": "2597",
+   "group_3": "2597",
+   "group_4": "2597"
+  },
+  {
+   "name": "397",
+   "area": "FLO",
+   "res_name": "Any E FloMo",
+   "sex": "m",
+   "individual": "2597",
+   "group_2": "2597",
+   "group_3": "2597",
+   "group_4": "2597"
+  },
+  {
+   "name": "63",
+   "area": "FLO",
+   "res_name": "Any Faisan",
+   "sex": "m",
+   "individual": "2597",
+   "group_2": "2597",
+   "group_3": "2597",
+   "group_4": "2474"
+  },
+  {
+   "name": "60",
+   "area": "FLO",
+   "res_name": "Any FloMo",
+   "sex": "m",
+   "individual": "2597",
+   "group_2": "2597",
+   "group_3": "2597",
+   "group_4": "2597"
+  },
+  {
+   "name": "64",
+   "area": "FLO",
+   "res_name": "Any Gavilan",
+   "sex": "m",
+   "individual": "2285",
+   "group_2": "1804",
+   "group_3": "1804",
+   "group_4": "1706"
+  },
+  {
+   "name": "65",
+   "area": "FLO",
+   "res_name": "Any Loro",
+   "sex": "m",
+   "individual": "2505",
+   "group_2": "2299",
+   "group_3": "2299",
+   "group_4": "2194"
+  },
+  {
+   "name": "66",
+   "area": "FLO",
+   "res_name": "Any Mirlo",
+   "sex": "m",
+   "individual": "2512",
+   "group_2": "2512",
+   "group_3": "2476 (1 of 4)",
+   "group_4": "2418"
+  },
+  {
+   "name": "67",
+   "area": "FLO",
+   "res_name": "Any Paloma",
+   "sex": "m",
+   "individual": "2597",
+   "group_2": "2568",
+   "group_3": "2512",
+   "group_4": "2458"
+  },
+  {
+   "name": "415",
+   "area": "FLO",
+   "res_name": "Any W FloMo",
+   "sex": "m",
+   "individual": "2597",
+   "group_2": "2568",
+   "group_3": "2512",
+   "group_4": "2512"
+  },
+  {
+   "name": "399",
+   "area": "FLO",
+   "res_name": "Card1rmDbl",
+   "sex": "m",
+   "individual": "2597",
+   "group_2": "2597",
+   "group_3": "2597",
+   "group_4": "2597"
+  },
+  {
+   "name": "398",
+   "area": "FLO",
+   "res_name": "Card1rmSgl",
+   "sex": "m",
+   "individual": "548",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "402",
+   "area": "FLO",
+   "res_name": "Fais1rmDbl",
+   "sex": "m",
+   "individual": "2597",
+   "group_2": "2597",
+   "group_3": "2597",
+   "group_4": "2474"
+  },
+  {
+   "name": "401",
+   "area": "FLO",
+   "res_name": "Fais1rmSgl",
+   "sex": "m",
+   "individual": "856",
+   "group_2": "325",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "404",
+   "area": "FLO",
+   "res_name": "Gav1rmDbl",
+   "sex": "m",
+   "individual": "2285",
+   "group_2": "1804",
+   "group_3": "1804",
+   "group_4": "1706"
+  },
+  {
+   "name": "403",
+   "area": "FLO",
+   "res_name": "Gav1rmSgl",
+   "sex": "m",
+   "individual": "901",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "406",
+   "area": "FLO",
+   "res_name": "Loro1rmDbl",
+   "sex": "m",
+   "individual": "2505",
+   "group_2": "2299",
+   "group_3": "2299",
+   "group_4": "2194"
+  },
+  {
+   "name": "405",
+   "area": "FLO",
+   "res_name": "Loro1rmSgl",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "408",
+   "area": "FLO",
+   "res_name": "Mrlo1rmDbl",
+   "sex": "m",
+   "individual": "2512",
+   "group_2": "2512",
+   "group_3": "2476 (1 of 4)",
+   "group_4": "2418"
+  },
+  {
+   "name": "407",
+   "area": "FLO",
+   "res_name": "Mrlo1rmSgl",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "410",
+   "area": "FLO",
+   "res_name": "Palo1rmDbl",
+   "sex": "m",
+   "individual": "2597",
+   "group_2": "2568",
+   "group_3": "2512",
+   "group_4": "2458"
+  },
+  {
+   "name": "409",
+   "area": "FLO",
+   "res_name": "Palo1rmSgl",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "203",
+   "area": "GCQ",
+   "res_name": "Any Castano",
+   "sex": "m",
+   "individual": "1688",
+   "group_2": "1688",
+   "group_3": "1688",
+   "group_4": "1688"
+  },
+  {
+   "name": "201",
+   "area": "GCQ",
+   "res_name": "Any Kimball",
+   "sex": "m",
+   "individual": "1722",
+   "group_2": "1673",
+   "group_3": "1661",
+   "group_4": "1661"
+  },
+  {
+   "name": "202",
+   "area": "GCQ",
+   "res_name": "Any Lantana",
+   "sex": "m",
+   "individual": "1755",
+   "group_2": "1755 (1 of 2)",
+   "group_3": "1706 (1 of 4)",
+   "group_4": "1705"
+  },
+  {
+   "name": "200",
+   "area": "GCQ",
+   "res_name": "AnyGerhard",
+   "sex": "m",
+   "individual": "1755",
+   "group_2": "1755 (1 of 2)",
+   "group_3": "1722",
+   "group_4": "1706 (1 of 4)"
+  },
+  {
+   "name": "252",
+   "area": "GCQ",
+   "res_name": "Cast1rmDbl",
+   "sex": "m",
+   "individual": "1688",
+   "group_2": "1688",
+   "group_3": "1688",
+   "group_4": "1688"
+  },
+  {
+   "name": "251",
+   "area": "GCQ",
+   "res_name": "Cast1rmSgl",
+   "sex": "m",
+   "individual": "496",
+   "group_2": "443",
+   "group_3": "386",
+   "group_4": "no room"
+  },
+  {
+   "name": "254",
+   "area": "GCQ",
+   "res_name": "Cast2rmDbl",
+   "sex": "m",
+   "individual": "1597",
+   "group_2": "1566",
+   "group_3": "1553",
+   "group_4": "1553"
+  },
+  {
+   "name": "253",
+   "area": "GCQ",
+   "res_name": "CastanoTrp",
+   "sex": "m",
+   "individual": "1589",
+   "group_2": "1589",
+   "group_3": "1589",
+   "group_4": "1521"
+  },
+  {
+   "name": "255",
+   "area": "GCQ",
+   "res_name": "Humanities",
+   "sex": "m",
+   "individual": "1475",
+   "group_2": "1375",
+   "group_3": "1355",
+   "group_4": "1355"
+  },
+  {
+   "name": "262",
+   "area": "GCQ",
+   "res_name": "Kim1rmDbl",
+   "sex": "m",
+   "individual": "1722",
+   "group_2": "1673",
+   "group_3": "1661",
+   "group_4": "1661"
+  },
+  {
+   "name": "261",
+   "area": "GCQ",
+   "res_name": "Kim1rmSgl",
+   "sex": "m",
+   "individual": "674",
+   "group_2": "651",
+   "group_3": "628",
+   "group_4": "571"
+  },
+  {
+   "name": "264",
+   "area": "GCQ",
+   "res_name": "Kim2rmDbl",
+   "sex": "m",
+   "individual": "1560",
+   "group_2": "1502",
+   "group_3": "1469",
+   "group_4": "1427"
+  },
+  {
+   "name": "263",
+   "area": "GCQ",
+   "res_name": "KimballTrp",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "265",
+   "area": "GCQ",
+   "res_name": "KimQuad",
+   "sex": "m",
+   "individual": "1628",
+   "group_2": "1628",
+   "group_3": "1628",
+   "group_4": "1628"
+  },
+  {
+   "name": "212",
+   "area": "GCQ",
+   "res_name": "Lant1rmDbl",
+   "sex": "m",
+   "individual": "1755",
+   "group_2": "1755 (1 of 2)",
+   "group_3": "1706 (1 of 4)",
+   "group_4": "1705"
+  },
+  {
+   "name": "211",
+   "area": "GCQ",
+   "res_name": "Lant1rmSgl",
+   "sex": "m",
+   "individual": "294",
+   "group_2": "294",
+   "group_3": "294",
+   "group_4": "294"
+  },
+  {
+   "name": "214",
+   "area": "GCQ",
+   "res_name": "Lant2rmDbl",
+   "sex": "m",
+   "individual": "1603",
+   "group_2": "1603",
+   "group_3": "1593",
+   "group_4": "1593"
+  },
+  {
+   "name": "213",
+   "area": "GCQ",
+   "res_name": "LantanaTrp",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "81",
+   "area": "GOV",
+   "res_name": "Any EAST",
+   "sex": "m",
+   "individual": "2777",
+   "group_2": "2777",
+   "group_3": "2696",
+   "group_4": "2696"
+  },
+  {
+   "name": "450",
+   "area": "GOV",
+   "res_name": "Any Gov Co",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2833 (pool G)",
+   "group_4": "2818 (pool G)"
+  },
+  {
+   "name": "82",
+   "area": "GOV",
+   "res_name": "Any Murray",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2707",
+   "group_4": "2707"
+  },
+  {
+   "name": "92",
+   "area": "GOV",
+   "res_name": "Any Potter",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2833 (pool G)",
+   "group_4": "2818 (pool G)"
+  },
+  {
+   "name": "93",
+   "area": "GOV",
+   "res_name": "Any Robinson",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2309",
+   "group_4": "2309"
+  },
+  {
+   "name": "90",
+   "area": "GOV",
+   "res_name": "Any SterQuad",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2833 (pool G)",
+   "group_4": "2818 (pool G)"
+  },
+  {
+   "name": "87",
+   "area": "GOV",
+   "res_name": "Any Suites",
+   "sex": "m",
+   "individual": "500",
+   "group_2": "500",
+   "group_3": "307",
+   "group_4": "307"
+  },
+  {
+   "name": "83",
+   "area": "GOV",
+   "res_name": "Any Yost",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2699",
+   "group_3": "2699",
+   "group_4": "2565"
+  },
+  {
+   "name": "442",
+   "area": "GOV",
+   "res_name": "EAST1rmDbl",
+   "sex": "m",
+   "individual": "2777",
+   "group_2": "2777",
+   "group_3": "2696",
+   "group_4": "2696"
+  },
+  {
+   "name": "441",
+   "area": "GOV",
+   "res_name": "EAST1rmSgl",
+   "sex": "m",
+   "individual": "717",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "444",
+   "area": "GOV",
+   "res_name": "EAST2rmDbl",
+   "sex": "m",
+   "individual": "1174",
+   "group_2": "1116",
+   "group_3": "754",
+   "group_4": "754"
+  },
+  {
+   "name": "443",
+   "area": "GOV",
+   "res_name": "EASTTrp",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "95",
+   "area": "GOV",
+   "res_name": "FroSoCo",
+   "sex": "m",
+   "individual": "2313 (level 1)",
+   "group_2": "1544 (level 1)",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "452",
+   "area": "GOV",
+   "res_name": "Murr1rmDbl",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2707",
+   "group_4": "2707"
+  },
+  {
+   "name": "451",
+   "area": "GOV",
+   "res_name": "Murr1rmSgl",
+   "sex": "m",
+   "individual": "926",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "454",
+   "area": "GOV",
+   "res_name": "Murr2rmDbl",
+   "sex": "m",
+   "individual": "1697",
+   "group_2": "1619",
+   "group_3": "1619",
+   "group_4": "1580"
+  },
+  {
+   "name": "85",
+   "area": "GOV",
+   "res_name": "Outdoor",
+   "sex": "m",
+   "individual": "590",
+   "group_2": "509",
+   "group_3": "488",
+   "group_4": "488"
+  },
+  {
+   "name": "472",
+   "area": "GOV",
+   "res_name": "Pott1rmDbl",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2833 (pool G)",
+   "group_4": "2818 (pool G)"
+  },
+  {
+   "name": "471",
+   "area": "GOV",
+   "res_name": "Pott1rmSgl",
+   "sex": "m",
+   "individual": "731",
+   "group_2": "115",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "474",
+   "area": "GOV",
+   "res_name": "Pott2rmDbl",
+   "sex": "m",
+   "individual": "1846",
+   "group_2": "1838",
+   "group_3": "1790",
+   "group_4": "1764"
+  },
+  {
+   "name": "473",
+   "area": "GOV",
+   "res_name": "PotterTrp",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "482",
+   "area": "GOV",
+   "res_name": "Robn1rmDbl",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2309",
+   "group_4": "2309"
+  },
+  {
+   "name": "481",
+   "area": "GOV",
+   "res_name": "Robn1rmSgl",
+   "sex": "m",
+   "individual": "776",
+   "group_2": "525",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "484",
+   "area": "GOV",
+   "res_name": "Robn2rmDbl",
+   "sex": "m",
+   "individual": "2060",
+   "group_2": "2056",
+   "group_3": "1980",
+   "group_4": "1964"
+  },
+  {
+   "name": "84",
+   "area": "GOV",
+   "res_name": "Suites 4",
+   "sex": "m",
+   "individual": "0758 (level 1)",
+   "group_2": "0758 (level 1)",
+   "group_3": "0758 (level 1)",
+   "group_4": "no room"
+  },
+  {
+   "name": "86",
+   "area": "GOV",
+   "res_name": "Suites 6",
+   "sex": "m",
+   "individual": "500",
+   "group_2": "500",
+   "group_3": "307",
+   "group_4": "307"
+  },
+  {
+   "name": "462",
+   "area": "GOV",
+   "res_name": "Yost1rmDbl",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2699",
+   "group_3": "2699",
+   "group_4": "2565"
+  },
+  {
+   "name": "461",
+   "area": "GOV",
+   "res_name": "Yost1rmSgl",
+   "sex": "m",
+   "individual": "865",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "464",
+   "area": "GOV",
+   "res_name": "Yost2rmDbl",
+   "sex": "m",
+   "individual": "1069 (1 of 2)",
+   "group_2": "1062",
+   "group_3": "798",
+   "group_4": "798"
+  },
+  {
+   "name": "434",
+   "area": "LAG",
+   "res_name": "Adel1rmDbl",
+   "sex": "m",
+   "individual": "1728 (1 of 2)",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "433",
+   "area": "LAG",
+   "res_name": "Adel1rmSgl",
+   "sex": "m",
+   "individual": "538",
+   "group_2": "537",
+   "group_3": "528",
+   "group_4": "527"
+  },
+  {
+   "name": "51",
+   "area": "LAG",
+   "res_name": "Any Adelfa",
+   "sex": "m",
+   "individual": "1728 (1 of 2)",
+   "group_2": "538",
+   "group_3": "537",
+   "group_4": "528"
+  },
+  {
+   "name": "52",
+   "area": "LAG",
+   "res_name": "Any Eucalipto",
+   "sex": "m",
+   "individual": "1409",
+   "group_2": "675",
+   "group_3": "642",
+   "group_4": "576"
+  },
+  {
+   "name": "53",
+   "area": "LAG",
+   "res_name": "Any Granada",
+   "sex": "m",
+   "individual": "1694",
+   "group_2": "1694",
+   "group_3": "1694",
+   "group_4": "1096"
+  },
+  {
+   "name": "50",
+   "area": "LAG",
+   "res_name": "Any Lag",
+   "sex": "m",
+   "individual": "1728 (1 of 2)",
+   "group_2": "1694",
+   "group_3": "1694",
+   "group_4": "1694"
+  },
+  {
+   "name": "490",
+   "area": "LAG",
+   "res_name": "Any Meier",
+   "sex": "m",
+   "individual": "1530",
+   "group_2": "369",
+   "group_3": "369",
+   "group_4": "369"
+  },
+  {
+   "name": "55",
+   "area": "LAG",
+   "res_name": "Any Naranja",
+   "sex": "m",
+   "individual": "1464",
+   "group_2": "1464",
+   "group_3": "1307",
+   "group_4": "1307"
+  },
+  {
+   "name": "495",
+   "area": "LAG",
+   "res_name": "Any Norcliffe",
+   "sex": "m",
+   "individual": "445",
+   "group_2": "384",
+   "group_3": "384",
+   "group_4": "213"
+  },
+  {
+   "name": "54",
+   "area": "LAG",
+   "res_name": "Euc 1rmDbl",
+   "sex": "m",
+   "individual": "1409",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "439",
+   "area": "LAG",
+   "res_name": "Euc Trpl",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "438",
+   "area": "LAG",
+   "res_name": "Euc1rmSgl",
+   "sex": "m",
+   "individual": "675",
+   "group_2": "642",
+   "group_3": "576",
+   "group_4": "449"
+  },
+  {
+   "name": "430",
+   "area": "LAG",
+   "res_name": "Gran Trpl",
+   "sex": "m",
+   "individual": "1694",
+   "group_2": "1694",
+   "group_3": "1694",
+   "group_4": "no room"
+  },
+  {
+   "name": "437",
+   "area": "LAG",
+   "res_name": "Gran1rmDbl",
+   "sex": "m",
+   "individual": "1096",
+   "group_2": "1096",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "436",
+   "area": "LAG",
+   "res_name": "Gran1rmSgl",
+   "sex": "m",
+   "individual": "637",
+   "group_2": "637",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "492",
+   "area": "LAG",
+   "res_name": "Meier1rmDbl",
+   "sex": "m",
+   "individual": "1530",
+   "group_2": "369",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "492",
+   "area": "LAG",
+   "res_name": "Meier1rmDbl (focus)",
+   "sex": "m",
+   "individual": "room for all",
+   "group_2": "room for all",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "491",
+   "area": "LAG",
+   "res_name": "Meier1rmSgl",
+   "sex": "m",
+   "individual": "164",
+   "group_2": "139",
+   "group_3": "112",
+   "group_4": "101"
+  },
+  {
+   "name": "493",
+   "area": "LAG",
+   "res_name": "Meier2rmDbl",
+   "sex": "m",
+   "individual": "369",
+   "group_2": "369",
+   "group_3": "369",
+   "group_4": "no room"
+  },
+  {
+   "name": "493",
+   "area": "LAG",
+   "res_name": "Meier2rmDbl (focus)",
+   "sex": "m",
+   "individual": "1046 (level 1)",
+   "group_2": "1046 (level 1)",
+   "group_3": "1046 (level 1)",
+   "group_4": "no room"
+  },
+  {
+   "name": "496",
+   "area": "LAG",
+   "res_name": "Norcliffe1rmSgl",
+   "sex": "m",
+   "individual": "177",
+   "group_2": "166",
+   "group_3": "166",
+   "group_4": "155"
+  },
+  {
+   "name": "498",
+   "area": "LAG",
+   "res_name": "Norcliffe2rmDbl",
+   "sex": "m",
+   "individual": "445",
+   "group_2": "384",
+   "group_3": "384",
+   "group_4": "213"
+  },
+  {
+   "name": "498",
+   "area": "LAG",
+   "res_name": "Norcliffe2rmDbl (focus)",
+   "sex": "m",
+   "individual": "1311 (level 1)",
+   "group_2": "1156 (level 1)",
+   "group_3": "1156 (level 1)",
+   "group_4": "1120 (level 1)"
+  },
+  {
+   "name": "432",
+   "area": "LAG",
+   "res_name": "Nrja1rmDbl",
+   "sex": "m",
+   "individual": "1464",
+   "group_2": "1464",
+   "group_3": "1307",
+   "group_4": "1307"
+  },
+  {
+   "name": "431",
+   "area": "LAG",
+   "res_name": "Nrja1rmSgl",
+   "sex": "m",
+   "individual": "667",
+   "group_2": "667",
+   "group_3": "664",
+   "group_4": "626"
+  },
+  {
+   "name": "57",
+   "area": "LAG",
+   "res_name": "Ujamaa",
+   "sex": "m",
+   "individual": "840",
+   "group_2": "698",
+   "group_3": "0698 (1 of 2)",
+   "group_4": "615"
+  },
+  {
+   "name": "57",
+   "area": "LAG",
+   "res_name": "Ujamaa (ethnic,B)",
+   "sex": "m",
+   "individual": "1134",
+   "group_2": "573",
+   "group_3": "277",
+   "group_4": "64"
+  },
+  {
+   "name": "19",
+   "area": "MIR",
+   "res_name": "Any Mirr",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "102",
+   "area": "MIR",
+   "res_name": "Mirr2brDbl",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "103",
+   "area": "MIR",
+   "res_name": "Mirr3brTrp",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "350",
+   "area": "MIR",
+   "res_name": "MirSubFree",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "32",
+   "area": "ROB",
+   "res_name": "Any Roble",
+   "sex": "m",
+   "individual": "2658 (1 of 2)",
+   "group_2": "2156",
+   "group_3": "2147",
+   "group_4": "1888"
+  },
+  {
+   "name": "412",
+   "area": "ROB",
+   "res_name": "Robl1rmDbl",
+   "sex": "m",
+   "individual": "1798",
+   "group_2": "1728",
+   "group_3": "1641",
+   "group_4": "1591"
+  },
+  {
+   "name": "411",
+   "area": "ROB",
+   "res_name": "Robl1rmSgl",
+   "sex": "m",
+   "individual": "969",
+   "group_2": "963",
+   "group_3": "948",
+   "group_4": "944"
+  },
+  {
+   "name": "414",
+   "area": "ROB",
+   "res_name": "Robl2rmDbl",
+   "sex": "m",
+   "individual": "878",
+   "group_2": "878",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "413",
+   "area": "ROB",
+   "res_name": "RobleTrp",
+   "sex": "m",
+   "individual": "2658 (1 of 2)",
+   "group_2": "2156",
+   "group_3": "2147",
+   "group_4": "1888"
+  },
+  {
+   "name": "981",
+   "area": "ROW",
+   "res_name": "576Alvarado",
+   "sex": "m",
+   "individual": "2211",
+   "group_2": "1905",
+   "group_3": "1850",
+   "group_4": "1829"
+  },
+  {
+   "name": "908",
+   "area": "ROW",
+   "res_name": "680Lom Prm",
+   "sex": "m",
+   "individual": "546",
+   "group_2": "474",
+   "group_3": "474",
+   "group_4": "474"
+  },
+  {
+   "name": "909",
+   "area": "ROW",
+   "res_name": "680Lom Std",
+   "sex": "m",
+   "individual": "906",
+   "group_2": "741",
+   "group_3": "701",
+   "group_4": "656"
+  },
+  {
+   "name": "922",
+   "area": "ROW",
+   "res_name": "Any 680Lomita",
+   "sex": "m",
+   "individual": "906",
+   "group_2": "741",
+   "group_3": "701",
+   "group_4": "656"
+  },
+  {
+   "name": "986",
+   "area": "ROW",
+   "res_name": "Any BOB",
+   "sex": "m",
+   "individual": "554",
+   "group_2": "554",
+   "group_3": "542",
+   "group_4": "439"
+  },
+  {
+   "name": "970",
+   "area": "ROW",
+   "res_name": "Any Durand",
+   "sex": "m",
+   "individual": "1505",
+   "group_2": "1505",
+   "group_3": "1505",
+   "group_4": "1505"
+  },
+  {
+   "name": "966",
+   "area": "ROW",
+   "res_name": "Any French",
+   "sex": "m",
+   "individual": "708",
+   "group_2": "562",
+   "group_3": "553",
+   "group_4": "346"
+  },
+  {
+   "name": "987",
+   "area": "ROW",
+   "res_name": "Any Grove",
+   "sex": "m",
+   "individual": "1891",
+   "group_2": "950",
+   "group_3": "950",
+   "group_4": "950"
+  },
+  {
+   "name": "964",
+   "area": "ROW",
+   "res_name": "Any HausMit",
+   "sex": "m",
+   "individual": "828",
+   "group_2": "790",
+   "group_3": "790",
+   "group_4": "725"
+  },
+  {
+   "name": "965",
+   "area": "ROW",
+   "res_name": "Any Italian",
+   "sex": "m",
+   "individual": "561",
+   "group_2": "337",
+   "group_3": "0337 (1 of 2)",
+   "group_4": "257"
+  },
+  {
+   "name": "990",
+   "area": "ROW",
+   "res_name": "Any Mars",
+   "sex": "m",
+   "individual": "691",
+   "group_2": "691",
+   "group_3": "691",
+   "group_4": "0691 (1 of 4)"
+  },
+  {
+   "name": "960",
+   "area": "ROW",
+   "res_name": "Any Narnia",
+   "sex": "m",
+   "individual": "0794 (1 of 3)",
+   "group_2": "735",
+   "group_3": "735",
+   "group_4": "735"
+  },
+  {
+   "name": "968",
+   "area": "ROW",
+   "res_name": "Any PhiSig",
+   "sex": "m",
+   "individual": "872",
+   "group_2": "872",
+   "group_3": "646",
+   "group_4": "646"
+  },
+  {
+   "name": "967",
+   "area": "ROW",
+   "res_name": "Any Pluto",
+   "sex": "m",
+   "individual": "1891",
+   "group_2": "1849",
+   "group_3": "1752",
+   "group_4": "1752"
+  },
+  {
+   "name": "901",
+   "area": "ROW",
+   "res_name": "Any Roth",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "920",
+   "area": "ROW",
+   "res_name": "Any SelfOp",
+   "sex": "m",
+   "individual": "1891",
+   "group_2": "1860",
+   "group_3": "1849",
+   "group_4": "1752"
+  },
+  {
+   "name": "923",
+   "area": "ROW",
+   "res_name": "Any SelfOpLake",
+   "sex": "m",
+   "individual": "0794 (1 of 3)",
+   "group_2": "735",
+   "group_3": "735",
+   "group_4": "735"
+  },
+  {
+   "name": "979",
+   "area": "ROW",
+   "res_name": "Any SlavDom",
+   "sex": "m",
+   "individual": "1153 (2 of 3)",
+   "group_2": "994",
+   "group_3": "994",
+   "group_4": "961"
+  },
+  {
+   "name": "930",
+   "area": "ROW",
+   "res_name": "Any Xanadu",
+   "sex": "m",
+   "individual": "913",
+   "group_2": "780",
+   "group_3": "769",
+   "group_4": "769"
+  },
+  {
+   "name": "912",
+   "area": "ROW",
+   "res_name": "BOB Prm",
+   "sex": "m",
+   "individual": "228",
+   "group_2": "228",
+   "group_3": "214",
+   "group_4": "214"
+  },
+  {
+   "name": "913",
+   "area": "ROW",
+   "res_name": "BOB Std",
+   "sex": "m",
+   "individual": "554",
+   "group_2": "554",
+   "group_3": "542",
+   "group_4": "439"
+  },
+  {
+   "name": "983",
+   "area": "ROW",
+   "res_name": "Columbae",
+   "sex": "m",
+   "individual": "2340",
+   "group_2": "2051",
+   "group_3": "2051",
+   "group_4": "1745"
+  },
+  {
+   "name": "916",
+   "area": "ROW",
+   "res_name": "Durand Prm",
+   "sex": "m",
+   "individual": "336",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "917",
+   "area": "ROW",
+   "res_name": "Durand Std",
+   "sex": "m",
+   "individual": "1505",
+   "group_2": "1505",
+   "group_3": "1505",
+   "group_4": "1505"
+  },
+  {
+   "name": "985",
+   "area": "ROW",
+   "res_name": "EBF",
+   "sex": "m",
+   "individual": "858",
+   "group_2": "797",
+   "group_3": "797",
+   "group_4": "584"
+  },
+  {
+   "name": "924",
+   "area": "ROW",
+   "res_name": "French Prm",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "925",
+   "area": "ROW",
+   "res_name": "French Std",
+   "sex": "m",
+   "individual": "708",
+   "group_2": "562",
+   "group_3": "553",
+   "group_4": "346"
+  },
+  {
+   "name": "926",
+   "area": "ROW",
+   "res_name": "Grov Prm",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "927",
+   "area": "ROW",
+   "res_name": "Grov Std",
+   "sex": "m",
+   "individual": "1891",
+   "group_2": "950",
+   "group_3": "950",
+   "group_4": "950"
+  },
+  {
+   "name": "996",
+   "area": "ROW",
+   "res_name": "Hammarsk",
+   "sex": "m",
+   "individual": "744",
+   "group_2": "744",
+   "group_3": "302",
+   "group_4": "79"
+  },
+  {
+   "name": "996",
+   "area": "ROW",
+   "res_name": "Hammarsk (ethnic,I)",
+   "sex": "m",
+   "individual": "room for all",
+   "group_2": "2961",
+   "group_3": "2951",
+   "group_4": "957"
+  },
+  {
+   "name": "937",
+   "area": "ROW",
+   "res_name": "HausMitPrm",
+   "sex": "m",
+   "individual": "28",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "938",
+   "area": "ROW",
+   "res_name": "HausMitStd",
+   "sex": "m",
+   "individual": "828",
+   "group_2": "790",
+   "group_3": "790",
+   "group_4": "725"
+  },
+  {
+   "name": "939",
+   "area": "ROW",
+   "res_name": "ItalianPrm",
+   "sex": "m",
+   "individual": "187",
+   "group_2": "87",
+   "group_3": "87",
+   "group_4": "82"
+  },
+  {
+   "name": "940",
+   "area": "ROW",
+   "res_name": "ItalianStd",
+   "sex": "m",
+   "individual": "561",
+   "group_2": "337",
+   "group_3": "0337 (1 of 2)",
+   "group_4": "257"
+  },
+  {
+   "name": "941",
+   "area": "ROW",
+   "res_name": "Jerry Prm",
+   "sex": "m",
+   "individual": "610",
+   "group_2": "605",
+   "group_3": "605",
+   "group_4": "591"
+  },
+  {
+   "name": "976",
+   "area": "ROW",
+   "res_name": "Kairos",
+   "sex": "m",
+   "individual": "1981",
+   "group_2": "1727",
+   "group_3": "991",
+   "group_4": "911"
+  },
+  {
+   "name": "907",
+   "area": "ROW",
+   "res_name": "LwRwSelfOp",
+   "sex": "m",
+   "individual": "1356",
+   "group_2": "980",
+   "group_3": "913",
+   "group_4": "906"
+  },
+  {
+   "name": "946",
+   "area": "ROW",
+   "res_name": "Mars Prm",
+   "sex": "m",
+   "individual": "54",
+   "group_2": "36",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "947",
+   "area": "ROW",
+   "res_name": "Mars Std",
+   "sex": "m",
+   "individual": "691",
+   "group_2": "691",
+   "group_3": "691",
+   "group_4": "0691 (1 of 4)"
+  },
+  {
+   "name": "978",
+   "area": "ROW",
+   "res_name": "Muwekma",
+   "sex": "m",
+   "individual": "954",
+   "group_2": "405",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "978",
+   "area": "ROW",
+   "res_name": "Muwekma (ethnic,N)",
+   "sex": "m",
+   "individual": "1729",
+   "group_2": "1458",
+   "group_3": "1180",
+   "group_4": "no room"
+  },
+  {
+   "name": "948",
+   "area": "ROW",
+   "res_name": "Narnia Prm",
+   "sex": "m",
+   "individual": "0794 (1 of 3)",
+   "group_2": "735",
+   "group_3": "672",
+   "group_4": "672"
+  },
+  {
+   "name": "949",
+   "area": "ROW",
+   "res_name": "Narnia Std",
+   "sex": "m",
+   "individual": "0794 (1 of 3)",
+   "group_2": "735",
+   "group_3": "735",
+   "group_4": "no room"
+  },
+  {
+   "name": "951",
+   "area": "ROW",
+   "res_name": "Phi Sg Prm",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "952",
+   "area": "ROW",
+   "res_name": "Phi Sg Std",
+   "sex": "m",
+   "individual": "872",
+   "group_2": "872",
+   "group_3": "646",
+   "group_4": "646"
+  },
+  {
+   "name": "943",
+   "area": "ROW",
+   "res_name": "Pluto Prm",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "944",
+   "area": "ROW",
+   "res_name": "Pluto Std",
+   "sex": "m",
+   "individual": "1891",
+   "group_2": "1849",
+   "group_3": "1752",
+   "group_4": "1752"
+  },
+  {
+   "name": "953",
+   "area": "ROW",
+   "res_name": "Roth Prm",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "954",
+   "area": "ROW",
+   "res_name": "Roth Std",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "956",
+   "area": "ROW",
+   "res_name": "SlavDomPrm",
+   "sex": "m",
+   "individual": "462",
+   "group_2": "275",
+   "group_3": "86",
+   "group_4": "no room"
+  },
+  {
+   "name": "957",
+   "area": "ROW",
+   "res_name": "SlavDomStd",
+   "sex": "m",
+   "individual": "1153 (2 of 3)",
+   "group_2": "994",
+   "group_3": "994",
+   "group_4": "961"
+  },
+  {
+   "name": "993",
+   "area": "ROW",
+   "res_name": "Storey",
+   "sex": "m",
+   "individual": "1356",
+   "group_2": "980",
+   "group_3": "870",
+   "group_4": "870"
+  },
+  {
+   "name": "997",
+   "area": "ROW",
+   "res_name": "Synergy",
+   "sex": "m",
+   "individual": "2629",
+   "group_2": "2629",
+   "group_3": "2623",
+   "group_4": "2478"
+  },
+  {
+   "name": "977",
+   "area": "ROW",
+   "res_name": "Terra",
+   "sex": "m",
+   "individual": "2940",
+   "group_2": "2914",
+   "group_3": "2852",
+   "group_4": "2852"
+  },
+  {
+   "name": "921",
+   "area": "ROW",
+   "res_name": "UpRwSelfOp",
+   "sex": "m",
+   "individual": "1891",
+   "group_2": "1860",
+   "group_3": "1849",
+   "group_4": "1752"
+  },
+  {
+   "name": "998",
+   "area": "ROW",
+   "res_name": "Xanadu Prm",
+   "sex": "m",
+   "individual": "125",
+   "group_2": "125",
+   "group_3": "105",
+   "group_4": "105"
+  },
+  {
+   "name": "999",
+   "area": "ROW",
+   "res_name": "Xanadu Std",
+   "sex": "m",
+   "individual": "913",
+   "group_2": "780",
+   "group_3": "769",
+   "group_4": "769"
+  },
+  {
+   "name": "994",
+   "area": "ROW",
+   "res_name": "ZAP",
+   "sex": "m",
+   "individual": "1891",
+   "group_2": "1860",
+   "group_3": "1849",
+   "group_4": "1752"
+  },
+  {
+   "name": "426",
+   "area": "STN",
+   "res_name": "Zapata",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2833 (pool G)",
+   "group_4": "2818 (pool G)"
+  },
+  {
+   "name": "426",
+   "area": "STN",
+   "res_name": "Zapata (ethnic,C)",
+   "sex": "m",
+   "individual": "room for all",
+   "group_2": "room for all",
+   "group_3": "room for all",
+   "group_4": "2353"
+  },
+  {
+   "name": "33",
+   "area": "TOY",
+   "res_name": "Any Toyon",
+   "sex": "m",
+   "individual": "1542 (level 1)",
+   "group_2": "1449 (level 1)",
+   "group_3": "1379 (level 1)",
+   "group_4": "1379 (level 1)"
+  },
+  {
+   "name": "292",
+   "area": "TOY",
+   "res_name": "Toy1rmDbl",
+   "sex": "m",
+   "individual": "1379 (level 1)",
+   "group_2": "1379 (level 1)",
+   "group_3": "1379 (level 1)",
+   "group_4": "1357 (level 1)"
+  },
+  {
+   "name": "291",
+   "area": "TOY",
+   "res_name": "Toy1rmSgl",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "294",
+   "area": "TOY",
+   "res_name": "Toy2rmDbl",
+   "sex": "m",
+   "individual": "1272 (level 1)",
+   "group_2": "1272 (level 1)",
+   "group_3": "1270 (level 1)",
+   "group_4": "1268 (level 1)"
+  },
+  {
+   "name": "295",
+   "area": "TOY",
+   "res_name": "ToyonQuad",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  },
+  {
+   "name": "293",
+   "area": "TOY",
+   "res_name": "ToyonTrp",
+   "sex": "m",
+   "individual": "1542 (level 1)",
+   "group_2": "1449 (level 1)",
+   "group_3": "1379 (level 1)",
+   "group_4": "1269 (level 1)"
+  },
+  {
+   "name": "741",
+   "area": "WIL",
+   "res_name": "Any Trancos",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2833 (pool G)",
+   "group_4": "2818 (pool G)"
+  },
+  {
+   "name": "736",
+   "area": "WIL",
+   "res_name": "Okada",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2833 (pool G)",
+   "group_4": "2713"
+  },
+  {
+   "name": "736",
+   "area": "WIL",
+   "res_name": "Okada (ethnic,A)",
+   "sex": "m",
+   "individual": "room for all",
+   "group_2": "room for all",
+   "group_3": "room for all",
+   "group_4": "2838"
+  },
+  {
+   "name": "744",
+   "area": "WIL",
+   "res_name": "Trancos1rmDbl",
+   "sex": "m",
+   "individual": "2854 (1 of 2) (pool G)",
+   "group_2": "2838 (pool G)",
+   "group_3": "2833 (pool G)",
+   "group_4": "2818 (pool G)"
+  },
+  {
+   "name": "743",
+   "area": "WIL",
+   "res_name": "Trancos1rmSgl",
+   "sex": "m",
+   "individual": "no room",
+   "group_2": "no room",
+   "group_3": "no room",
+   "group_4": "no room"
+  }
+ ]
+}
